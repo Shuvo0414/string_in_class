@@ -1,4 +1,3 @@
-The String1 is : REDDY
-The String2 is : REDDY
-The string1 is : REDDY
-The string2 is : EDDY
+Enter the string
+string is : hello
+String is : hello
