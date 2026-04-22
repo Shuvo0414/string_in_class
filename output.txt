@@ -1,1 +1,1 @@
-Enter the string:012345678The lenght of string is : 9
+The lowercase is : jbrec
