@@ -1,3 +1,2 @@
-Enter the string
-string is : hello
-String is : hello
+0
+-4
