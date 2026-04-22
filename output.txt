@@ -1,5 +1,2 @@
-V
-o
-l
-v
-o
+The srting length of JBREC is :5
+The srting length of JBRECECE is :8
