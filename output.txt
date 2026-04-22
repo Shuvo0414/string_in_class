@@ -1,2 +1,1 @@
-The srting length of JBREC is :5
-The srting length of JBRECECE is :8
+Enter the string:012345678The lenght of string is : 9
